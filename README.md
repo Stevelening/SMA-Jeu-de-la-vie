@@ -31,7 +31,7 @@ Mais vu la taille de ce projet, il est ***très fortement recommandé d'utiliser
 ### IDE Idea Intellij
 - créer un nouveau projet:
     - menu *File/New Project*
-    - si le répertoire distribué est dans "~/Ensimag/2A/POO/TPL_2A_POO", alors paramétrer les champs *Name* avec "TPL_2A_POO" et *Location* avec "~/Ensimag/2A/POO/"
+    - si le répertoire distribué est dans "$HOME/Ensimag/2A/POO/TPL_2A_POO", alors paramétrer les champs `Name` avec "TPL_2A_POO" et `Location` avec "$HOME/Ensimag/2A/POO/"
 - configurer l'utilisation de la librairie
     - menu *File/Project Structure* puis *Projet setting/Modules*
     - clicker sur(*Add* puis "JARs & Directories" et sélectionner ~/Ensimag/2A/POO/TPL_2A_POO/lib
