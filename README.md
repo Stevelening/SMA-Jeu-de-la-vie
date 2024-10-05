@@ -3,7 +3,7 @@ Simulation de Systèmes Multi-Agents grâce aux automates cellulaires.
 
 ---
 
-Images here
+![Appercu de l'application](./Jeu_de_la_vie.jpg "Appercu de l'application")
 
 ---
 
